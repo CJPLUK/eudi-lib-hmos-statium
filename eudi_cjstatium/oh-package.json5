@@ -1,0 +1,11 @@
+{
+  "name": "eudi_cjstatium",
+  "version": "1.0.0",
+  "description": "EUDI Token Status List (Statium) — Cangjie port",
+  "main": "",
+  "author": "",
+  "types": "./Index.d.ets",
+  "license": "Apache-2.0",
+  "dependencies": {
+  }
+}

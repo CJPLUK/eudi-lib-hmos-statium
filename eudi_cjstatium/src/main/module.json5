@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "eudi_cjstatium",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
